@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49de324c-ada6-4b84-9de2-f44733e986b7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5_API_18" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jUMtbN0MO3n8dLnpdiLximYlHb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="realme-rmx1971-6c987f5c" />
+    <property name="DEBUGGABLE_PROCESS" value="com.example.flutter_commerce_app" />
+    <property name="DEBUGGER_ID" value="Java" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\flutter_project_demo\flutter_commerce_app\lib\screens\complete_profile\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="main2.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main2.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main2.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49de324c-ada6-4b84-9de2-f44733e986b7" name="Default Changelist" comment="" />
+      <created>1603854432427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603854432427</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1298" y="285" key="AndroidProcessChooserDialog" timestamp="1604308046135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1298" y="285" key="AndroidProcessChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604308046135" />
+    <state width="503" height="466" key="DebuggerActiveHint" timestamp="1604307868146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="503" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1604307868146" />
+    <state x="1220" y="276" key="FileChooserDialogImpl" timestamp="1604311266609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604311266609" />
+    <state width="910" height="418" key="GridCell.Tab.0.bottom" timestamp="1604373494917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="910" height="418" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604373494917" />
+    <state width="910" height="418" key="GridCell.Tab.0.center" timestamp="1604373494917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="910" height="418" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604373494917" />
+    <state width="910" height="418" key="GridCell.Tab.0.left" timestamp="1604373494917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="910" height="418" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604373494917" />
+    <state width="910" height="418" key="GridCell.Tab.0.right" timestamp="1604373494917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="910" height="418" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604373494917" />
+    <state x="1055" y="101" width="770" height="840" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1604310889799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1055" y="101" width="770" height="840" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604310889799" />
+    <state x="1086" y="136" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604305628604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1086" y="136" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604305628604" />
+    <state x="0" y="0" width="926" height="1019" key="dock-window-1" timestamp="1604302683908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="926" height="1019" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1604302683908" />
+    <state x="1136" y="254" width="607" height="534" key="find.popup" timestamp="1604368944634">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1136" y="254" width="607" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604368944634" />
+    <state x="1106" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1604284309695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1106" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604284309695" />
+  </component>
+</project>
